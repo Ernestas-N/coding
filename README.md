@@ -1,4 +1,4 @@
-# Ernestas Nikiforovas
-# Newbie WEB Developer
+### Ernestas Nikiforovas
+### Newbie WEB Developer
 
 Contact me: nikiforovas@hotmail.com
